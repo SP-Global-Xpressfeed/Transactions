@@ -19,7 +19,7 @@ transactionFeatureId
 transactionId
 
 Database_Type:
-POSTGRESQL
+SNOWFLAKE
 
 Query_Version:
 V1

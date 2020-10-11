@@ -21,7 +21,7 @@ transactionIdTypeId
 transactionPrimaryFeatureId
 
 Database_Type:
-POSTGRESQL
+SNOWFLAKE
 
 Query_Version:
 V1
