@@ -30,7 +30,7 @@ Query_Added_Date:
 DatasetKey:
 44
 
-The following sample SQL query rovide workarounds to screen the SP Capital IQ Transactions package for 
+The following sample SQL query rovide workaround to screen the SP Capital IQ Transactions package for 
 Regulation D offerings in Xpressfeed.
 Note: Uncomment the second query for Private Placement Transactions (To optimize time select for Top 10000
 companyIds)
